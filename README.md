@@ -16,8 +16,16 @@ Este projeto foi criado com o objetivo de aplicar, na prática, conceitos fundam
 
 #1. Pergunta e Resposta
 Jogo de perguntas de múltipla escolha. O jogador responde questões com quatro alternativas, e o sistema informa se a resposta está correta ou incorreta. Ao final, é exibido o desempenho do jogador. No código atual, foram implementadas cinco perguntas fixas. 
-# Cobra na caixa
+
+
+#2. Cobra na caixa
 Jogo para dois jogadores. Existem cinco caixas: uma contém o botão que garante a vitória e outra esconde uma cobra, causando a derrota. A posição dos elementos é sorteada aleatoriamente, e os jogadores se alternam tentando encontrar o botão sem cair na cobra. 
+
+
+
+
+
+
 #3. goumas war
 Jogo de estratégia em que dois jogadores controlam Gousmas, criaturas que acumulam fúria ao serem atacadas. Cada jogador começa com duas Gousmas, podendo atacar ou dividir a fúria entre elas. Caso o nível de fúria ultrapasse o limite, a Gousma se desintegra. Vence quem eliminar todas as Gousmas do adversário. 
 
