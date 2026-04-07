@@ -40,3 +40,8 @@ Jogo de estratégia em que dois jogadores controlam Gousmas, criaturas que acumu
 - Opção de reiniciar o minijogo ou voltar ao menu principal
 
 
+O jogo foi desenvolvido pelos alunos Pedro Sales e Josiel Costa
+
+ 
+
+
